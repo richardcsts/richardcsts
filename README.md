@@ -5,9 +5,9 @@ Sou um desenvolvedor apaixonado por tecnologia, jogos, criatividade e desafios. 
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor full-stack com foco em **TypeScript**, **Node.js**, **React** e **game dev**
-- 🎮 Criadora de jogos e engines 2D/3D
-- ⚙️ Exploradora de sistemas, baixo nível, emuladores e circuitos lógicos
-- 🧠 Apaixonada por inteligência artificial, computação gráfica e engenharia reversa
+- 🎮 Criador de jogos e engines 2D/3D
+- ⚙️ Explorador de sistemas, baixo nível, emuladores e circuitos lógicos
+- 🧠 Apaixonad por inteligência artificial, computação gráfica e engenharia reversa
 - 🛠️ Entusiasta de projetos open-source
 
 ## 🧰 Tecnologias e Ferramentas
