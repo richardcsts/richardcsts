@@ -1,6 +1,6 @@
 # Olá! 👋 Seja bem-vindo(a) ao meu perfil no GitHub!
 
-Sou um desenvolvedor apaixonado por tecnologia, jogos, criatividade e desafios. Aqui você vai encontrar projetos pessoais, experimentos com código, engines, emuladores, jogos 2D e 3D, e muito mais!
+Sou um desenvolvedor apaixonado por tecnologia, jogos, criatividade e desafios.
 
 ## 🚀 Sobre mim
 
